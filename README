@@ -23,7 +23,7 @@ Checkout code from the repository first, and then:
 
 === Require Libraries
 
-ImageMagick, zbar(http://zbar.sourceforge.net/)
+ImageMagick, zbar at http://zbar.sourceforge.net/
 
 ==== install zbar
 
